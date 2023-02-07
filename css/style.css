@@ -1,6 +1,7 @@
 :root {
     --primary: #f0a202 !important;
     --primary-hover: #EA3788 !important;
+    --primary-focus: #de77a5 !important;
     background-color: #393E41 !important;
     color: #F6F7EB !important;
 }
